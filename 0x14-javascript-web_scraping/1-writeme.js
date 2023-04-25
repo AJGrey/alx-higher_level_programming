@@ -11,6 +11,3 @@ function writeToFile(filePath, content) {
     console.log(`File has been written to: ${filePath}`);
   });
 }
-
-// Usage Example:
-writeToFile('test.txt', 'Hello World!');
